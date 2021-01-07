@@ -8,7 +8,7 @@ This project performs and explains simple linear regression using Python on the 
 ### In this repositry
 
 ##### jupyter notebook
-Included in this repository is a jupyter notebook which details the procedure undertaken to build the final predictive model. It follows a step by step approach, exploring a numnber of topics and concepts in the process including:
+Included in this repository is a jupyter notebook which details the procedure undertaken to build the final predictive model. It follows a step by step approach, exploring a number of topics and concepts in the process including:
 * Preliminary data analysis
 * Simple linear regression
 * Polynomial regression
@@ -21,5 +21,5 @@ On establishing that a simple linear regression model does not make sufficiently
 ##### powerproduction.csv
 This is the csv file containing the `powerproduction` data set
 
-##### .gitignore and README
+##### .gitignore and README.md
 These files are included as standard 

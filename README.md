@@ -1,4 +1,4 @@
-# fda_project2020
+# RegressionAnalysis
 Fundamentals of Data Analytics project 2020
 
 ### Project overview
